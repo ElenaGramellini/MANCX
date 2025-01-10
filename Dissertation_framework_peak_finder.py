@@ -2,8 +2,7 @@
 Dissertation: Axion Searches at ADMX and MANCX, Lukas Wystemp, 2024
 
 This script is used to read in data from the MANCX test stand and plot the fourier transform. It automatically 
-detects significant axion-like peaks in the data and calculates the signal to noise ratio. The script also 
-calculates the signal to noise ratio. Artificial gaussian noise or coherent sinusoidal noise can be
+detects significant axion-like peaks in the data and calculates the signal to noise ratio. Artificial gaussian noise or coherent sinusoidal noise can be
 added to the data and the accuracy of the script can be evaluated. 
 
 Input data should be of the form 'RunFrequency.csv'. For example, 'A75.csv' will be read as run A with
